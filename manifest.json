@@ -1,0 +1,9 @@
+{
+  "mcbbsloader.examplemod": {
+    "id": "mcbbsloader.examplemod",
+    "name": "Example Mod",
+    "description": "示例 Mod，适合新手上路测试或者开发基础",
+    "author": "MCBBS Loader",
+    "gid": "MCBBS-Loader:MCBBS-Loader-Batteries:ExampleMod:main"
+  }
+}
